@@ -5,4 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohta&column=-1&rank=-C&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-# My tech stacks is listed in the [portfolio](https://www.gitshowcase.com/rohta).
+# My tech stack is listed in the [portfolio](https://www.gitshowcase.com/rohta).
