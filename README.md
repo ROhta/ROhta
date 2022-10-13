@@ -38,10 +38,12 @@
   - ActixWeb, Next.js
   - [AppMesh](https://rohta.github.io/managed_explanation/33), 各種Firewall, ControlTower
 
-3. Now
+3. Bizreach
 
 - 4月入社
+  - アプリケーションエンジニア
 - 6月移動
+  - SREエンジニア
 
 ## プライベート
 
@@ -53,7 +55,7 @@
   - 個サルにちょくちょく行く
 - 筋トレ
   - 自重中心、たまにフリーウェイト
-  - ベンチプレス記録伸びない
+  - 広背筋に注力中
 - ビリヤード
 - 楽器
   - ピアノ
