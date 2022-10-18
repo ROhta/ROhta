@@ -32,7 +32,7 @@
 - バックオフィス
   - 情シス
   - セキュリティチェックシート対応
-  - 監査対応
+  - 内部統制
 - 育休半年取得
 - [新規システム](https://rohta.github.io/managed_explanation/57)構築
   - ActixWeb, Next.js
