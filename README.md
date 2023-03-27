@@ -51,6 +51,7 @@
 - 酒
   - ワインエキスパート取得
   - Sake Diploma取得
+  - Japan Beer Sommelier取得
 - 昼飯
   - 食べログの「行った」の件数3000件超
 - フットサル
