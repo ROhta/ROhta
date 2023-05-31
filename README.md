@@ -49,7 +49,7 @@
 ## プライベート
 
 - 酒
-  - ワインエキスパート取得
+  - Wine Expert取得
   - Sake Diploma取得
   - Japan Beer Sommelier取得
 - 昼飯
