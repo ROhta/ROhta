@@ -1,0 +1,17 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    schedule:
+      interval: "weekly"
+      day: "friday"
+      time: "10:00"
+      timezone: "Asia/Tokyo"
+    directory: "/"
+    allow:
+      - dependency-type: "all"
+    open-pull-requests-limit: 10
+    pull-request-branch-name:
+      separator: "_"
+    rebase-strategy: "auto"
+    reviewers:
+      - "ROhta"
