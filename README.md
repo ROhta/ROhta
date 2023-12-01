@@ -16,17 +16,17 @@
 - [サイト内検索専門のSIer](https://www.forcia.com/technology/#spook)
 - フルスタックエンジニア8割 営業2割
   - 検索専用DBを毎日作成
-  - SQL, JavaScript
+  - JQuery, Backend JavaScript
   - Apache, Tomcat, PostgreSQL
 - SREチーム兼務
   - 障害頻発システムの対応
 - 独自アプリケーションフレームワークの刷新プロジェクト
-  - TypeScript
+  - TypeScript導入
 
 2. スタートアップ
 
 - リーガルテック領域、[契約書レビューサービス](https://ai-con-pro.com/function/)
-- アーキテクト、[マイクロサービス](https://github.com/ROhta/auth0day/blob/master/slide.md#%E3%81%95%E3%81%82%E8%AA%8D%E8%A8%BC%E3%81%A0)の初期構築
+- スタッフエンジニア、[マイクロサービス](https://github.com/ROhta/auth0day/blob/master/slide.md#%E3%81%95%E3%81%82%E8%AA%8D%E8%A8%BC%E3%81%A0)の初期構築
   - Go, TypeScript
   - MySQL, Elasticsearch, Auth0
 - バックオフィス
