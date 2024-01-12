@@ -28,7 +28,7 @@
 - リーガルテック領域、[契約書レビューサービス](https://ai-con-pro.com/function/)
 - スタッフエンジニア、[マイクロサービス](https://github.com/ROhta/auth0day/blob/master/slide.md#%E3%81%95%E3%81%82%E8%AA%8D%E8%A8%BC%E3%81%A0)の初期構築
   - Go, TypeScript
-  - MySQL, Elasticsearch, Auth0
+  - MySQL, Elasticsearch, [Auth0](https://prtimes.jp/main/html/rd/p/000000015.000044999.html)
 - バックオフィス
   - 情シス
   - セキュリティチェックシート対応
@@ -53,7 +53,7 @@
   - Sake Diploma取得
   - Japan Beer Sommelier取得
 - 昼飯
-  - 食べログの「行った」の件数3300件超
+  - 食べログの「行った」の件数3400件超
 - フットサル
   - 個サルにちょくちょく行く
 - 筋トレ
