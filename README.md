@@ -38,7 +38,7 @@
   - ActixWeb, Next.js
   - [AppMesh](https://rohta.github.io/managed_explanation/33), 各種Firewall, ControlTower
 
-3. Bizreach
+3. BizReach
 
 - 4月キャリトレ
   - アプリケーションエンジニア
@@ -54,7 +54,7 @@
   - Sake Diploma取得
   - Japan Beer Sommelier取得
 - 昼飯
-  - 食べログの「行った」の件数3600件
+  - 食べログの「行った」の件数3700件
 - フットサル
   - 個サルにちょくちょく行く
 - 筋トレ
@@ -65,12 +65,13 @@
   - ピアノ
   - ヴァイオリン 
 - 息子
-  - 3歳
+  - 4歳
   - 元気
   - 夜寝ない。親の時間が削られる。
 - 家
   - 本棚
     - ![IMG_20220606_180837](https://user-images.githubusercontent.com/13445921/172164759-39788916-8ae1-4a25-87ff-c9d73e8915c6.jpg)
   - 懸垂マシン
-    - ![IMG_20220606_214116](https://user-images.githubusercontent.com/13445921/172164923-a0f940c4-2f1a-4630-9056-bc9f15b76d0e.jpg)
+    - ![IMG_20241005_222516](https://github.com/user-attachments/assets/f710f83e-623f-4302-b842-5d8bcb734167)
+
 
