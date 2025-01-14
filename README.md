@@ -1,4 +1,4 @@
-## [技術スタック](https://www.gitshowcase.com/rohta)
+## 技術スタック
 
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
@@ -11,7 +11,7 @@
 
 ## 職歴
 
-1. 新卒
+1. [フォルシア](https://www.forcia.com/)
 
 - [サイト内検索専門のSIer](https://www.forcia.com/technology/#spook)
 - フルスタックエンジニア8割 営業2割
@@ -23,7 +23,7 @@
 - 独自アプリケーションフレームワークの刷新プロジェクト
   - TypeScript導入
 
-2. スタートアップ
+2. [GVA TECH](https://gvatech.co.jp/)
 
 - リーガルテック領域、[契約書レビューサービス](https://ai-con-pro.com/function/)
 - スタッフエンジニア、[マイクロサービス](https://github.com/ROhta/auth0day/blob/master/slide.md#%E3%81%95%E3%81%82%E8%AA%8D%E8%A8%BC%E3%81%A0)の初期構築
@@ -38,7 +38,7 @@
   - ActixWeb, Next.js
   - [AppMesh](https://rohta.github.io/managed_explanation/33), 各種Firewall, ControlTower
 
-3. BizReach
+3. [BizReach](https://www.bizreach.co.jp/)
 
 - 4月キャリトレ
   - アプリケーションエンジニア
@@ -47,6 +47,8 @@
   - SRE EM
   - 採用企業への営業サポートプロダクト
 
+4. [Courier](https://www.courier.jpn.com/)
+
 ## プライベート
 
 - 酒
@@ -54,7 +56,7 @@
   - Sake Diploma取得
   - Japan Beer Sommelier取得
 - 昼飯
-  - 食べログの「行った」の件数3700件
+  - 食べログの「行った」の件数3800件超
 - フットサル
   - 個サルにちょくちょく行く
 - 筋トレ
