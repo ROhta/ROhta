@@ -52,7 +52,7 @@
 ## プライベート
 
 - 屋内
-  - 酒
+  - 醸造酒
     - Wine Expert取得
     - Sake Diploma取得
     - Japan Beer Sommelier取得
