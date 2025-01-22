@@ -5,8 +5,6 @@
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/3-stats.svg) ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rohta&column=-1&rank=-C&theme=tokyonight)
-
 ---
 
 ## 職歴
@@ -46,8 +44,6 @@
 - 6月ビズリーチ
   - SRE EM
   - 採用企業への営業サポートプロダクト
-
-4. [Courier](https://www.courier.jpn.com/)
 
 ## プライベート
 
