@@ -10,11 +10,10 @@
 
 ## 職歴
 
-1. [フォルシア](https://www.forcia.com/)
+1. [サイト内検索専門のSIer](https://www.forcia.com/)
 
-- [サイト内検索専門のSIer](https://www.forcia.com/technology/#spook)
 - フルスタックエンジニア8割 営業2割
-  - 検索専用DBを毎日作成
+  - [検索専用DB](https://www.forcia.com/technology/#spook)を毎日作成
   - JQuery, Backend JavaScript
   - Apache, Tomcat, PostgreSQL
 - SREチーム兼務
@@ -22,7 +21,7 @@
 - 独自アプリケーションフレームワークの刷新プロジェクト
   - TypeScript導入
 
-2. [GVA TECH](https://gvatech.co.jp/)
+2. [スタートアップ](https://gvatech.co.jp/)
 
 - リーガルテック領域、[契約書レビューサービス](https://ai-con-pro.com/function/)
 - スタッフエンジニア、[マイクロサービス](https://github.com/ROhta/auth0day/blob/master/slide.md#%E3%81%95%E3%81%82%E8%AA%8D%E8%A8%BC%E3%81%A0)の初期構築
@@ -33,7 +32,7 @@
   - セキュリティチェックシート対応
   - 内部統制
 - 育休半年取得
-- [新規システム](https://rohta.github.io/managed_explanation/57)構築
+- [新規システム](https://rohta.github.io/managed_explanation/56)構築
   - ActixWeb, Next.js
   - [AppMesh](https://rohta.github.io/managed_explanation/33), 各種Firewall, ControlTower
 
