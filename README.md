@@ -1,4 +1,6 @@
-## 技術スタック
+![](https://capsule-render.vercel.app/api?type=wave&height=300&color=timeGradient&fontAlign=27&reversal=true&fontAlignY=42&descAlign=38&descAlignY=22)
+
+## 技術
 
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
@@ -8,7 +10,7 @@
 
 ---
 
-## 職歴
+## 仕事
 
 1. [サイト内検索専門のSIer](https://www.forcia.com/)
 
@@ -43,19 +45,24 @@
 - 5月キャリトレクローズ
 - 6月ビズリーチ
   - SRE EM
-  - 採用企業への営業サポートプロダクト
+    - Terraform, AWS, Datadog
+  - 採用企業への営業サポートプロダクト Web Engineer
+    - React, Kotlin 
 
-## プライベート
+---
+
+## 趣味
 
 - 屋内
   - 醸造酒
-    - Wine Expert取得
-    - Sake Diploma取得
-    - Japan Beer Sommelier取得
+    - Wine Expert
+    - Sake Diploma
+    - Japan Beer Sommelier
   - 昼飯
     - 食べログの「行った」の件数4000件超
   - 筋トレ
-    - 家でダンベルトレーニング
+    - 家でダンベル・自重トレーニング
+    - ジムも行く
     - 広背筋に注力中
   - ビリヤード 
   - 楽器
@@ -66,12 +73,12 @@
     - フットサル
       - 個サルにちょくちょく行く
   - 海
-    - ダイビングライセンス
+    - スキューバダイビング
     - 船舶免許
 - 息子
   - 4歳
   - 元気
-  - 夜寝ない。親の時間が削られる。
+  - 夜寝ない。親の時間は無い。
 - 家
   - 本棚
     - ![IMG_20220606_180837](https://user-images.githubusercontent.com/13445921/172164759-39788916-8ae1-4a25-87ff-c9d73e8915c6.jpg)
