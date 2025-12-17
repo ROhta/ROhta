@@ -15,10 +15,12 @@
 1. [サイト内検索専門のSIer](https://www.forcia.com/)
 
 - フルスタックエンジニア8割 営業2割
+  - 今で言うFDEからAI要素抜いた感じ
   - [検索専用DB](https://www.forcia.com/technology/#spook)を毎日作成
   - JQuery, Backend JavaScript
   - Apache, Tomcat, PostgreSQL
-- SREチーム兼務
+- 品質チーム兼務
+  - 今で言うSRE
   - 障害頻発システムの対応
 - 独自アプリケーションフレームワークの刷新プロジェクト
   - TypeScript導入
@@ -47,7 +49,8 @@
   - SRE EM
     - Terraform, AWS, Datadog
   - 採用企業への営業サポートプロダクト Web Engineer
-    - React, Kotlin 
+    - React, Kotlin
+    - AI戦略
 
 ---
 
@@ -59,7 +62,7 @@
     - Sake Diploma
     - Japan Beer Sommelier
   - 昼飯
-    - 食べログの「行った」の件数4100件超
+    - 食べログの「行った」の件数4200件超
   - 筋トレ
     - 家でダンベル・自重トレーニング
     - ジムも行く
