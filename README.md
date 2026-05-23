@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/3-stats.svg) ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-![trophy](https://github-profile-trophy-87ayvnqae-ryo-ma-s-team.vercel.app/?username=ROhta&column=-1&rank=-C&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=ROhta&column=-1&rank=-C&theme=tokyonight)
 
 ---
 
@@ -62,7 +62,7 @@
     - Sake Diploma
     - Japan Beer Sommelier
   - 昼飯
-    - 食べログの「行った」の件数4300件超
+    - 食べログの「行った」の件数4400件超
   - 筋トレ
     - 家でダンベル・自重トレーニング
     - ジムも行く
