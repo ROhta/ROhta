@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/3-stats.svg) ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-![trophy](https://github-profile-trophy-sigma-one.vercel.app/?username=ROhta&column=-1&rank=-C&theme=tokyonight)
+![trophy](https://github-profile-trophy.deno.dev/?username=ROhta&column=-1&rank=-C&theme=tokyonight)
 
 ---
 
