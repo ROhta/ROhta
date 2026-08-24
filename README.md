@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/3-stats.svg) ![](https://raw.githubusercontent.com/ROhta/ROhta/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-![trophy](https://github-profile-trophy.deno.dev/?username=ROhta&column=-1&rank=-C&theme=tokyonight)
+![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=ROhta&column=-1&rank=-C&theme=tokyonight)
 
 ---
 
@@ -30,7 +30,7 @@
 - リーガルテック領域、[契約書レビューサービス](https://ai-con-pro.com/function/)
 - スタッフエンジニア、[マイクロサービス](https://github.com/ROhta/auth0day/blob/master/slide.md#%E3%81%95%E3%81%82%E8%AA%8D%E8%A8%BC%E3%81%A0)の初期構築
   - Go, TypeScript
-  - MySQL, Elasticsearch, [Auth0](https://prtimes.jp/main/html/rd/p/000000015.000044999.html)
+  - MySQL, Elasticsearch, Auth0
 - バックオフィス
   - 情シス
   - セキュリティチェックシート対応
