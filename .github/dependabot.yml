@@ -18,5 +18,3 @@ updates:
     pull-request-branch-name:
       separator: "_"
     rebase-strategy: "auto"
-    reviewers:
-      - "ROhta"
