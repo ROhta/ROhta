@@ -19,3 +19,16 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
+      # trophy は外部ホスティング (vercel/deno.dev) が頻繁に死ぬので、リポジトリ内で生成してコミットする
+      - uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile-summary-card-output/tokyonight/5-trophy.svg
+          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
+          theme: tokyonight
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add profile-summary-card-output/tokyonight/5-trophy.svg
+          git diff --cached --quiet || git commit -m "Generate trophy"
+          git push
