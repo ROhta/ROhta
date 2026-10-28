@@ -20,12 +20,15 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
       # trophy は外部ホスティング (vercel/deno.dev) が頻繁に死ぬので、リポジトリ内で生成してコミットする
-      - uses: ryo-ma/github-profile-trophy@master
+      # 上流の action.yml は存在しない denoland/setup-deno@v1 を参照していて startup_failure になるため、同じ処理を直接書く
+      - uses: actions/checkout@v7
         with:
-          username: ${{ github.repository_owner }}
-          output_path: profile-summary-card-output/tokyonight/5-trophy.svg
-          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
-          theme: tokyonight
+          repository: ryo-ma/github-profile-trophy
+          path: .trophy
+      - uses: denoland/setup-deno@v2
+      - env:
+          GITHUB_TOKEN1: ${{ secrets.PROFILE_SUMMARY_CARDS }}
+        run: deno run --allow-net --allow-env --allow-read --allow-write .trophy/render_svg.ts "$GITHUB_REPOSITORY_OWNER" profile-summary-card-output/tokyonight/5-trophy.svg tokyonight
       - run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
