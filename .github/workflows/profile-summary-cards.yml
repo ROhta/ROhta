@@ -12,8 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v7
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # release 2026-10-25
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
         with:
@@ -21,11 +21,12 @@ jobs:
           UTC_OFFSET: 9
       # trophy は外部ホスティング (vercel/deno.dev) が頻繁に死ぬので、リポジトリ内で生成してコミットする
       # 上流の action.yml は存在しない denoland/setup-deno@v1 を参照していて startup_failure になるため、同じ処理を直接書く
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           repository: ryo-ma/github-profile-trophy
+          ref: 43736b50a82fca73c8df1c81abb40aa03519975c # master 2026-10-27
           path: .trophy
-      - uses: denoland/setup-deno@v2
+      - uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2.0.5
       - env:
           GITHUB_TOKEN1: ${{ secrets.PROFILE_SUMMARY_CARDS }}
         run: deno run --allow-net --allow-env --allow-read --allow-write .trophy/render_svg.ts "$GITHUB_REPOSITORY_OWNER" profile-summary-card-output/tokyonight/5-trophy.svg tokyonight
