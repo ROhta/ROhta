@@ -27,6 +27,8 @@ jobs:
           ref: 43736b50a82fca73c8df1c81abb40aa03519975c # master 2026-10-27
           path: .trophy
       - uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2.0.5
+      # render_svg.ts はランク指定を受け付けず空配列固定なので、B/C ランクを除外するよう書き換える (旧URLの rank=-B,-C 相当)
+      - run: perl -0pi -e 's/new Card\(\s*\[\],\s*\[\],/new Card([], ["-B", "-C"],/ or die "render_svg.ts の Card 引数が見つからない\n"' .trophy/render_svg.ts
       - env:
           GITHUB_TOKEN1: ${{ secrets.PROFILE_SUMMARY_CARDS }}
         run: deno run --allow-net --allow-env --allow-read --allow-write .trophy/render_svg.ts "$GITHUB_REPOSITORY_OWNER" profile-summary-card-output/tokyonight/5-trophy.svg tokyonight
